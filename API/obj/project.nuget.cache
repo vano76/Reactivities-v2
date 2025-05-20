@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gV/QWMhOW/Y=",
+  "success": true,
+  "projectFilePath": "/home/vanoski/MyStuff/Code/net_web_api/Reactivities/API/API.csproj",
+  "expectedPackageFiles": [
+    "/home/vanoski/.nuget/packages/microsoft.aspnetcore.openapi/9.0.4/microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "/home/vanoski/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

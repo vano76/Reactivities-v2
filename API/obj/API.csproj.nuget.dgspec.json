@@ -49,9 +49,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
+            "Microsoft.EntityFrameworkCore.Design": {
               "target": "Package",
-              "version": "[9.0.4, )"
+              "version": "[9.0.5, )"
             }
           },
           "imports": [
@@ -248,6 +248,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
